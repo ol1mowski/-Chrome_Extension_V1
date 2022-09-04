@@ -1,0 +1,87 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+#box {
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top {
+    width: 480px;
+    margin: 10px;
+}
+
+.bloczek {
+    width: 50%;
+    float: left;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    text-shadow: 1px 1px 5px black;
+}
+
+.bloczek :hover {
+    opacity: 0.6;
+}
+
+#logo {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tile1 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 115px;
+    background-image: url("brt.jpg");
+    float: left;
+}
+
+.tile2 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 115px;
+    background-image: url("dsc.png");
+    float: left;
+}
+
+.tile3 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 115px;
+    background-image: url("git.png");
+    float: left;
+}
+
+.tile6 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 115px;
+    background-image: url("yt.png");
+    float: left;
+}
+
+.tile55 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 57.5px;
+    float: left;
+}
+
+.tile66 {
+    margin: 5px 5px;
+    width: 115px;
+    height: 57.5px;
+    float: left;
+}
+
+a.tilelinkhtml5 {
+    color: white;
+    text-decoration: none;
+}
